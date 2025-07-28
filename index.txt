@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MSG Insulation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background-color: #f5f5f5;
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    .services {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>MSG Insulation</h1>
+  <p>Serving Rowan County and surrounding areas</p>
+  <div class="services">
+    <strong>Services:</strong>
+    <ul style="list-style: none; padding: 0;">
+      <li>Attic Insulation</li>
+      <li>Wall Insulation</li>
+      <li>Crawlspace Insulation</li>
+      <li>Blown-In Insulation</li>
+    </ul>
+  </div>
+  <p>Call us: <a href="tel:7048585270">704-858-5270</a></p>
+</body>
+</html>
