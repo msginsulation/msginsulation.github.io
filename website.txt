@@ -1,0 +1,115 @@
+!DOCTYPE html>
+<html lang="en"><
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MSG Insulation - Rowan County Insulation Experts</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #2a7a2a;
+      color: white;
+      padding: 20px 10px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      margin: 5px 0 0 0;
+      font-size: 1.1em;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      background: white;
+      padding: 20px 40px 40px 40px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+    h2 {
+      color: #2a7a2a;
+      margin-top: 40px;
+      border-bottom: 2px solid #2a7a2a;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+    .contact {
+      background-color: #2a7a2a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      border-radius: 0 0 8px 8px;
+      margin-top: 40px;
+    }
+    .contact a {
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 1.3em;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      margin-top: 30px;
+      padding-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MSG Insulation</h1>
+    <p>Your Trusted Insulation Experts in Rowan County & Surrounding Areas</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Welcome to MSG Insulation</h2>
+      <p>
+        At MSG Insulation, we specialize in making your home or business more energy efficient and comfortable with top-quality insulation services. Whether you need attic insulation, wall insulation, or blown-in insulation, our experienced team has you covered.
+      </p>
+    </section>
+
+    <section>
+      <h2>Our Services</h2>
+      <ul>
+        <li><strong>Attic Insulation:</strong> Improve your home's energy efficiency and comfort by insulating your attic with the latest materials.</li>
+        <li><strong>Wall Insulation:</strong> Keep your walls sealed and your energy bills down with our professional wall insulation services.</li>
+        <li><strong>Blown-In Insulation:</strong> Fast and effective blown-in insulation to fill gaps and hard-to-reach spaces for maximum protection.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Why Choose Us?</h2>
+      <ul>
+        <li>Local business serving Rowan County and nearby areas</li>
+        <li>Experienced, professional team</li>
+        <li>Competitive pricing and free estimates</li>
+        <li>Reliable and timely service</li>
+      </ul>
+    </section>
+
+    <section class="contact">
+      <h2>Contact Us</h2>
+      <p>Ready to improve your home's insulation? Call us today for a free estimate!</p>
+      <p><a href="tel:+17048585270">704-858-5270</a></p>
+      <p>Service Areas: Rowan County and surrounding areas</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 MSG Insulation. All rights reserved.
+  </footer>
+</body>
+</html>
